@@ -1,6 +1,6 @@
 streamlit
 langchain
 openai
-google-search-results
-SpeechRecognition
-pyaudio
+pypdf
+faiss-cpu
+pydantic
